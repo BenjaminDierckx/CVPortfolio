@@ -1,1 +1,28 @@
-div {background-color: blue}
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: flex;
+
+}
+
+body {
+    display: block;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.rechts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
