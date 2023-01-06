@@ -13,7 +13,9 @@ body {
 
 .links {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: antiquewhite;
+    width: 15%;
 }
 
 ul {
@@ -23,6 +25,13 @@ ul {
 
 .rechts {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: orange;
+    align-items: center;
+    text-align: center;
+    width: 85%;
 }
-
+.rechtsinfo {
+    display: flex;
+    flex-direction: column;
+}
