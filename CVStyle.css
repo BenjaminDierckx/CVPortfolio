@@ -22,6 +22,22 @@ ul {
     list-style-type: none;
     padding-left: 0;
 }
+thead {
+    background-color: orange;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: aquamarine;
+}
+tbody tr:nth-child(even) {
+    background-color: aliceblue;
+}
+
+th, td {
+    border: 1px solid black;
+    width: 25%;
+    text-align: center;
+}
 
 .rechts {
     display: flex;
@@ -34,4 +50,20 @@ ul {
 .rechtsinfo {
     display: flex;
     flex-direction: column;
+}
+img:hover {
+    border: 3px gray;
+    padding: 3px;
+    border-radius: 10px;
+    transform: translateY(-15px);
+}
+a {
+    transform: translateY(-15px);
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 20%);
+}
+@media only screen and (max-width: 480px) {
+    body {
+        background-color: lightblue;
+    }
 }
