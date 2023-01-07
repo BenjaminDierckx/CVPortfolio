@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CVStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/CVStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672683639549</updated>
       <workItem from="1672683641142" duration="55000" />
-      <workItem from="1672683735661" duration="35640000" />
+      <workItem from="1672683735661" duration="41687000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste versie">
       <created>1672683763832</created>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673055660314</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="positionering en andere kleine dingen">
+      <created>1673068294001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673068294001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +108,7 @@
     <MESSAGE value="Lijsten en verschillende divs toegevoegd" />
     <MESSAGE value="Toevoeging tabellen" />
     <MESSAGE value="foto+hover+styling tabellen" />
-    <option name="LAST_COMMIT_MESSAGE" value="foto+hover+styling tabellen" />
+    <MESSAGE value="positionering en andere kleine dingen" />
+    <option name="LAST_COMMIT_MESSAGE" value="positionering en andere kleine dingen" />
   </component>
 </project>
