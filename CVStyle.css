@@ -23,7 +23,7 @@ ul {
     padding-left: 0;
 }
 thead {
-    background-color: orange;
+    background-color: cornflowerblue;
 }
 
 tbody tr:nth-child(odd) {
@@ -38,11 +38,15 @@ th, td {
     width: 25%;
     text-align: center;
 }
+footer {
+    display: flex;
+    justify-content: space-between;
+}
 
 .rechts {
     display: flex;
     flex-direction: column;
-    background-color: orange;
+    background-color: cornflowerblue;
     align-items: center;
     text-align: center;
     width: 85%;
@@ -58,9 +62,7 @@ img:hover {
     transform: translateY(-15px);
 }
 a {
-    transform: translateY(-15px);
     border-radius: 3px;
-    box-shadow: 0 0 0 1px rgb(0 0 0 / 20%);
 }
 @media only screen and (max-width: 480px) {
     body {
