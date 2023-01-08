@@ -87,9 +87,7 @@ img:hover {
 thead tr {
     background-color: lightgoldenrodyellow;
 }
-a {
-    border-radius: 3px;
-}
+
 
 footer > div:first-child {
     margin-left: 5px;
