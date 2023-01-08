@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="94b4f50c-3fd4-406d-a3df-d4fa7e75adb2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CVStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/CVStyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672683639549</updated>
       <workItem from="1672683641142" duration="55000" />
-      <workItem from="1672683735661" duration="52957000" />
+      <workItem from="1672683735661" duration="58056000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste versie">
       <created>1672683763832</created>
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673151718656</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Responsiveness + aanpassen links + marges">
+      <created>1673151797389</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673151797389</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

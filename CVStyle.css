@@ -11,6 +11,10 @@ h2 {
     margin-bottom: 0;
     color: orange;
 }
+
+#myDIV {
+border: none;
+}
 body {
     font-family: helvetica, arial, sans-serif;
     margin: 0;
@@ -31,19 +35,20 @@ body {
 }
 .links > a {
     margin: 5px;
+    width: fit-content;
 }
+
 
 h1 {
     align-self: center;
 }
 table {
-    margin: 5px;
+    margin: 20px 5px 5px 5px;
     border-collapse: collapse;
     table-layout: fixed;
-}
-.opleidingen {
     line-height: 30px;
 }
+
 ul {
     list-style-type: none;
     padding-left: 5px;
@@ -77,13 +82,17 @@ footer {
     width: 85%;
     margin: 5px 5px 5px 0 ;
 }
-img:hover {
-    border: 10px gray;
-    padding: 3px;
-    transform: translateY(-15px);
-
+.rechts a:hover {
+    color: red;
 }
-
+img:hover {
+    transform: translateY(-10px);
+    box-shadow: 10px 10px 5px;
+}
+img:hover:active {
+    box-shadow: none;
+    border: 3px solid #555;
+}
 thead tr {
     background-color: lightgoldenrodyellow;
 }
