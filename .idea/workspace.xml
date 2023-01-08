@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672683639549</updated>
       <workItem from="1672683641142" duration="55000" />
-      <workItem from="1672683735661" duration="58056000" />
+      <workItem from="1672683735661" duration="62742000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste versie">
       <created>1672683763832</created>
@@ -123,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673151797389</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finale versie?">
+      <created>1673163349135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673163349136</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +146,7 @@
     <MESSAGE value="Links scholen, margins" />
     <MESSAGE value="Responsiveness tabellen" />
     <MESSAGE value="Responsiveness + aanpassen links + marges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responsiveness + aanpassen links + marges" />
+    <MESSAGE value="Finale versie?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finale versie?" />
   </component>
 </project>
