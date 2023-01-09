@@ -28,6 +28,10 @@ h2 {
     margin-bottom: 0;
     color: orange;
 }
+h4 {
+    margin-left: 5px;
+    margin-bottom: 0;
+}
 
 .left {
     display: flex;
@@ -51,6 +55,10 @@ h2 {
 .cvit img:hover:active {
     box-shadow: none;
     border: 3px solid #555;
+}
+
+.image-competenties, .image-planning {
+    margin-left: 5px;
 }
 
 ul {
